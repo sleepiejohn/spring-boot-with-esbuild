@@ -1,0 +1,7 @@
+{
+  "version": 3,
+  "sources": ["../../../../../assets/js/app.js"],
+  "sourcesContent": ["alert(\"I've been built with esbuild!\")"],
+  "mappings": "MAAA,MAAM",
+  "names": []
+}
